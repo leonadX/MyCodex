@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f666f3db3dc784aa26f20c4f9d7664, type: 3}
+  m_Name: Queen Unicorn
+  m_EditorClassIdentifier: 
+  name: Queen Unicorn
+  role: 0
+  story:
+  - She is Unicorn, the queen of the rainbow realm.
+  - Her costume is a fluffy unicorn themed sweater.
+  - She protects her realm from trespassers with a cannon gun that fires a rainbow-like
+    blast that slows down its target while dealing damage.
+  currentStory: 'She is Unicorn, the queen of the rainbow realm.
+
+    She protects
+    her realm from trespassers with a cannon gun that fires a rainbow-like blast
+    that slows down its target while dealing damage.'
+  characterId: 0
+  numberOfPresses: 0200000004000000
+  lastPressedIndex: 0
+  pressCounter: 0
+  lastUnlockedStory: 1

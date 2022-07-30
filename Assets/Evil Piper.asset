@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f666f3db3dc784aa26f20c4f9d7664, type: 3}
+  m_Name: Evil Piper
+  m_EditorClassIdentifier: 
+  name: Evil Piper
+  role: 1
+  story:
+  - She was involved in radioactive accident that altered her biology. It gave the
+    ability to fly, control and manipulate radiations.
+  - Her powers are from the dark force.
+  - Her real name is Piper Reece.
+  currentStory: She was involved in radioactive accident that altered her biology.
+    It gave the ability to fly, control and manipulate radiations.
+  characterId: 0
+  numberOfPresses: 0200000001000000
+  lastPressedIndex: -1
+  pressCounter: 0
+  lastUnlockedStory: 0
